@@ -4,5 +4,6 @@
 	</head>
 	<body>
 		<p>Hello World !</p>
+		<div> Modification en ligne </div>
 	</body>
 </html>
