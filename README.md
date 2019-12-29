@@ -1,4 +1,5 @@
-# cours_git
+# cours_git MODIFIER
+
 cours sur GIT avec Open Classroom
 
 demo de git qui se passe bien 
